@@ -1,26 +1,7 @@
-# Experiencia Laboral 💼
+### Resumen Ninja 🥷
 
-## Backend Developer Extraordinario - 08/02/2020 hasta 17/07/2021
-🏢 Centro de Consultoría para la Competitividad, Bogotá
+Soy un apasionado de la tecnología y he forjado mi camino en el mundo del desarrollo como un auténtico ninja. Desde mis inicios en Bizconexion, donde desarrollé habilidades en programación web y móvil, hasta mi experiencia en arquitectura de software en el Centro de Consultoría para la Competitividad y Linktic, he demostrado mi destreza en la creación de interfaces limpias, diseño de componentes inteligentes y optimización de código para una ejecución relámpago.
 
-🚀 Planeando y ejecutando arquitecturas increíbles basadas en microservicios.
-📋 Levantando requerimientos con estilo y precisión.
-🎨 Diseñando y produciendo componentes de software inteligente que dejarán a todos boquiabiertos.
-⚡ Optimizando código para reducir el tiempo de ejecución y hacerlo más rápido que un rayo.
+Actualmente, como Sensei of Code en la Universidad Jorge Tadeo Lozano, comparto mi conocimiento con los futuros ninjas del desarrollo de aplicaciones móviles, actualizando el pensum y guiando proyectos de aula hacia el éxito. Mi camino ninja me ha llevado a dominar diversas habilidades y liderar equipos con la agudeza de un verdadero maestro.
 
-## Mago del Backend - 07/2021
-🏢 Linktic, Bogotá
-
-🐳 Creando contenedores que se despliegan como por arte de magia.
-🔍 Levantando requerimientos con una lupa mágica.
-🏗️ Analizando, diseñando e implementando arquitecturas espectaculares.
-📈 Evaluando la escalabilidad de los componentes de software como un verdadero adivino.
-💾 Diseñando bases de datos que parecen salidas de un cuento de hadas.
-👥 Gestionando equipos como el líder carismático que soy.
-
-## Profesor de Aplicaciones Mágicas - 01/2023
-🏫 Universidad Jorge Tadeo Lozano, Bogotá
-
-📚 Enseñando a los futuros magos del desarrollo de aplicaciones móviles.
-✨ Actualizando y modernizando el pensum para que estén a la vanguardia de la magia tecnológica.
-🔍 Siguiendo de cerca los proyectos de aula como el mejor mentor.
+¡Prepárate para adentrarte en el mundo de la tecnología y descubrir el poder ninja en cada línea de código!
