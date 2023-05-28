@@ -1,16 +1,26 @@
-### Hi there 👋
+# Experiencia Laboral 💼
 
-<!--
-**nicolas-97/nicolas-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Backend Developer Extraordinario - 08/02/2020 hasta 17/07/2021
+🏢 Centro de Consultoría para la Competitividad, Bogotá
 
-Here are some ideas to get you started:
+🚀 Planeando y ejecutando arquitecturas increíbles basadas en microservicios.
+📋 Levantando requerimientos con estilo y precisión.
+🎨 Diseñando y produciendo componentes de software inteligente que dejarán a todos boquiabiertos.
+⚡ Optimizando código para reducir el tiempo de ejecución y hacerlo más rápido que un rayo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mago del Backend - 07/2021
+🏢 Linktic, Bogotá
+
+🐳 Creando contenedores que se despliegan como por arte de magia.
+🔍 Levantando requerimientos con una lupa mágica.
+🏗️ Analizando, diseñando e implementando arquitecturas espectaculares.
+📈 Evaluando la escalabilidad de los componentes de software como un verdadero adivino.
+💾 Diseñando bases de datos que parecen salidas de un cuento de hadas.
+👥 Gestionando equipos como el líder carismático que soy.
+
+## Profesor de Aplicaciones Mágicas - 01/2023
+🏫 Universidad Jorge Tadeo Lozano, Bogotá
+
+📚 Enseñando a los futuros magos del desarrollo de aplicaciones móviles.
+✨ Actualizando y modernizando el pensum para que estén a la vanguardia de la magia tecnológica.
+🔍 Siguiendo de cerca los proyectos de aula como el mejor mentor.
