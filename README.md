@@ -10,7 +10,7 @@ Actualmente, como Sensei of Code en la Universidad Jorge Tadeo Lozano, comparto 
 
 # Experiencia Laboral 🥷
 
-## Full Stack Ninja - 12/2019 hasta 03/09/2020
+## Full Stack Ninja
 💼 Bizconexion SAS, Bogotá
 
 🥷 Desarrollando habilidades ninja desde mis inicios en el mundo laboral.
@@ -18,7 +18,7 @@ Actualmente, como Sensei of Code en la Universidad Jorge Tadeo Lozano, comparto 
 💻 Completando tareas detalladas de programación y desarrollo para sitios web públicos, desafiándome con un código de servidor de back-end.
 📱 Realizando tareas detalladas de programación y desarrollo para aplicaciones móviles.
 
-## Backend Ninja - 08/02/2020 hasta 17/07/2021
+## Backend Ninja
 💼 Centro de Consultoría para la Competitividad, Bogotá
 
 🥷 Planificando y ejecutando arquitecturas ninjas basadas en microservicios.
@@ -26,7 +26,7 @@ Actualmente, como Sensei of Code en la Universidad Jorge Tadeo Lozano, comparto 
 💻 Diseñando y produciendo componentes de software ninja que deslumbran a todos.
 ⚡ Optimizando código con velocidad y agilidad para una ejecución relámpago.
 
-## Backend Ninja - 07/2021
+## Backend Ninja
 💼 Linktic, Bogotá
 
 🥷 Creando contenedores mágicos que se despliegan con un chasquido de dedos.
@@ -36,7 +36,7 @@ Actualmente, como Sensei of Code en la Universidad Jorge Tadeo Lozano, comparto 
 💾 Diseñando bases de datos encantadoras que cautivan a todos.
 👥 Liderando equipos con la agudeza de un auténtico maestro ninja.
 
-## Sensei of Code - 01/2023
+## Sensei of Code
 🏫 Universidad Jorge Tadeo Lozano, Bogotá
 
 📚 Enseñando a los futuros ninjas del desarrollo de aplicaciones móviles.
